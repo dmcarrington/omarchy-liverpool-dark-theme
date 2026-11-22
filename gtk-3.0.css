@@ -1,0 +1,16 @@
+/* managed-by: omarchy theme-gtk hook */
+/* Liverpool Dark: blue-grey surfaces for GTK3 apps. */
+@define-color theme_bg_color #1c2733;
+@define-color theme_fg_color #d6dfe9;
+@define-color theme_base_color #1c2733;
+@define-color theme_text_color #d6dfe9;
+@define-color theme_unfocused_bg_color #1c2733;
+@define-color theme_unfocused_fg_color #d6dfe9;
+@define-color theme_unfocused_base_color #1c2733;
+@define-color theme_unfocused_text_color #d6dfe9;
+
+window.background, dialog.background, .background { background-color: #1c2733; color: #d6dfe9; }
+.view:not(:selected), iconview:not(:selected), textview text, list:not(:selected), row:not(:selected) { background-color: #1c2733; color: #d6dfe9; }
+headerbar, .titlebar, toolbar, .sidebar { background-color: #293746; background-image: none; color: #d6dfe9; }
+menu, .menu, .context-menu, popover.background { background-color: #1c2733; color: #d6dfe9; }
+entry { background-color: #1c2733; color: #d6dfe9; }

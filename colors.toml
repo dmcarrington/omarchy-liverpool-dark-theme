@@ -1,0 +1,36 @@
+# Liverpool Dark — the Pier Head after sunset: blue-grey stone, deep Mersey
+# shadow and the red of the Kop still burning through the dusk.
+
+mode = "dark"
+
+accent = "#fa4c5e"          # matchday red, under the floodlights
+selection = "#35516f"       # dusk over the Mersey
+muted = "#8494a6"           # wet slate on the Strand
+
+background = "#1c2733"      # blue-grey stone after dark
+dark_background = "#16202a" # stone in shadow
+darker_background = "#101821"
+lighter_background = "#293746"
+
+foreground = "#d6dfe9"       # moonlit Portland stone
+dark_foreground = "#9dacbc"
+light_foreground = "#e4ebf2"
+bright_foreground = "#f3f6fa"
+
+red = "#fa4c5e"        # the Kop in full voice
+yellow = "#e4bb5e"     # Liver Bird gilt
+orange = "#ef8c52"     # Albert Dock lifebuoy
+green = "#65c777"      # Anfield turf
+cyan = "#4fc4d4"       # dock water at high tide
+blue = "#66abef"       # blue hour over the Three Graces
+magenta = "#c992d9"    # dusk over Birkenhead
+brown = "#b48e70"      # Albert Dock brick and sandstone
+
+bright_red = "#ff6173"
+bright_yellow = "#f2d384"
+bright_green = "#8bdd98"
+bright_cyan = "#7bdbe6"
+bright_blue = "#90c5f6"
+bright_magenta = "#ddb3e8"
+
+hyprland_active_border = "rgb(fa4c5e) rgb(66abef) 45deg"

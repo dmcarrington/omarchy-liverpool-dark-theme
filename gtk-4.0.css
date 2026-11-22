@@ -1,0 +1,25 @@
+/* managed-by: omarchy theme-gtk hook */
+/* Liverpool Dark: blue-grey surfaces for GTK4 and libadwaita apps. */
+:root {
+  --window-bg-color: #1c2733;
+  --window-fg-color: #d6dfe9;
+  --view-bg-color: #1c2733;
+  --view-fg-color: #d6dfe9;
+  --headerbar-bg-color: #293746;
+  --headerbar-fg-color: #d6dfe9;
+  --headerbar-backdrop-color: #1c2733;
+  --sidebar-bg-color: #293746;
+  --sidebar-fg-color: #d6dfe9;
+  --sidebar-backdrop-color: #1c2733;
+  --secondary-sidebar-bg-color: #293746;
+  --secondary-sidebar-fg-color: #d6dfe9;
+  --secondary-sidebar-backdrop-color: #1c2733;
+  --card-bg-color: #293746;
+  --card-fg-color: #d6dfe9;
+  --dialog-bg-color: #1c2733;
+  --dialog-fg-color: #d6dfe9;
+  --popover-bg-color: #1c2733;
+  --popover-fg-color: #d6dfe9;
+  --thumbnail-bg-color: #293746;
+  --thumbnail-fg-color: #d6dfe9;
+}
